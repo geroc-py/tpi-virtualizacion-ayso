@@ -36,4 +36,4 @@ Trabajo Práctico Integrador de la materia **Arquitectura y Sistemas Operativos*
 
 ## Autor
 
-[Tu nombre] - TUPaD, UTN	
+Gerónimo José Cardoso - Comisión N° 13 - TUPaD, UTN	
