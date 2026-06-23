@@ -37,3 +37,6 @@ Trabajo Práctico Integrador de la materia **Arquitectura y Sistemas Operativos*
 ## Autor
 
 Gerónimo José Cardoso - Comisión N° 13 - TUPaD, UTN	
+
+Link al repositorio: https://github.com/geroc-py/tpi-virtualizacion-ayso
+Link al video explicativo: https://www.youtube.com/watch?v=k0yOwaoTLKI
